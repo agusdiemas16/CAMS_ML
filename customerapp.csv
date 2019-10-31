@@ -1,0 +1,53 @@
+Nama,Gaji,Jenis_Kelamin,Existing,Occupation,Alamat,Kendaraan
+Eko,25000000.0,L,True,N,"Glagah Kidul RT 2, Tamanan, Banguntapan, Bantul","Datsun Go+,Yamaha Vixion,Honda Beat"
+Putri,15000000.0,P,False,F,"Tukad Banyusari Gang VII, Denpasar, Bali","Yamaha N-Max,Honda Beat"
+Ari,30000000.0,L,False,N,"Pabelan, Magelang","Yamaha N-Max,Honda Beat"
+as,50000000.0,L,True,N,"Denpasar, Bali","Toyota Fortuner,Honda PCX"
+Ariadi,20000000.0,L,False,N,"Gianyar, Bali","Honda Scoopy,Honda Beat"
+Andrias,150000000.0,L,False,N,"Cibubur, Jakarta Timur","Honda Rebel,Harley Davidson,Yamaha Mio"
+Suprapti,2000000.0,P,True,F,"Kebumen, Jawa Tengah","Honda Scoopy,Honda ADV"
+Subadri,2500000.0,L,True,F,"Denpasar, Bali",Astrea Grand
+Jobs,12000000.0,L,False,N,New York,Benelli Patagonian Eagle 250
+Anis,7500000.0,P,True,F,Daerah Istimewa Yogyakarta,Benelli EVO 200
+Bani,17500000.0,P,True,F,"Depok, Jawa Barat",Mitsubishi Pajero
+Boni,9000000.0,L,True,N,"Ciracas, Jakarta Timur",Yamaha N-Max
+Sari,5500000.0,P,True,N,"Permata Hijau, Jakarta Selatan, DKI Jakarta",Honda Beat
+Eka,7500000.0,P,True,F,"Ciledug, Tangerang Selatan, Tangerang",Honda Vario
+Fida,9250000.0,P,False,F,"Banyumas, Jawa Tengah",Honda Scoopy
+Nursiah,13000000.0,P,True,F,"Jatinangor, Sumedang, Jawa Barat",Vespa
+Miftah,22500000.0,L,True,N,"Denpasar, Bali",Mini Cooper
+Edo,6500000.0,L,True,F,"Setiabudi, Jakarta Selatan, DKI Jakarta",Yamaha N-Max
+Gussy,3950000.0,L,True,F,"Menteng, Jakarta Pusat, DKI Jakarta",Yamaha Mio
+Rayhan,8000000.0,L,False,F,"Tirta Mandala, Sukmajaya, Sukmajaya, Depok, Jawa Barat",Yamaha Jupyter MX
+Risma,35000000.0,P,True,N,"Bukit Gading Balaraja L1 No 1, Tangerang",Honda Vario
+Putrix,6000000.0,P,False,F,"Bukit Gading Cisoka L1 No 2, Cimahi",Genio
+Putri,4500000.0,P,False,N,"Bukit Permata Balaraja L1 No 3, Tangerang",Yamaha N-Max
+Anti,3500000.0,P,True,F,"Bukit Permata Bekasi L1 No 3, Bekasi",Honda Jazz
+Merlin,40000000.0,P,True,F,"Bukit Gading Balaraja L1 No 5, Tangerang",Honda Vario
+Sanjaya,3500000.0,P,True,F,"Bukit Gading Depok L1 No 6, Depok",Ninja 600
+Adila,3500000.0,L,True,N,"Bukit Gading Balaraja N1 No 7, Cimahi",Vespa
+Septi,5000000.0,L,False,N,"Bukit Permata Serpong L1 No 8, Jombang",Honda Scoopy
+Noval,5000000.0,L,False,F,"Bukit Gading Balaraja L1 No 9, Magelang",Honda PCX
+Anugrah,5600000.0,L,True,F,"Bukit Gading Serpong A1 No 10, Tangerang",Honda Vario
+Sukses,3500000.0,L,True,F,"Bukit Gading Balaraja L4 No 11, Tangerang",Honda Beat
+Berkah,7500000.0,L,True,N,"Bukit Gading Balaraja O1 No 12, Tangerang",Yamaha N-Max
+Amin,3500000.0,L,True,N,"Bukit Gading Balaraja L1 No 13, Tangerang",Honda Beat
+Diemas,37523914.0,L,False,N,Green Lake City Tanggerang,Yamaha R15
+Prayoga,28031034.0,P,True,N,Taman ratu,Suzuki Satria
+Arini,125000000.0,L,False,N,"Pluit Sakti 1, Tangerang",Ninja 600
+Sri,2043316.0,L,True,F,"Casa Gardin Daanmogot, Jakarta",Honda Beat
+China,49454601.0,P,False,F,Cluster Edison Summarecon Serpong,Yamaha Jupyter MX
+Arina,10011650.0,L,True,F,Green Lake City Tanggerang,Honda Vario
+Fitrianianiani,45265271.0,P,False,N,Taman Ratu,Honda Vario
+Purbani,16470594.0,L,True,F,Bintaro,Yamaha N-Max
+Dwi,28730186.0,L,True,F,Duren Sawit Jakarta Timur,Honda ADV
+Sari,19222159.0,P,False,N,Taman Ratu,Honda PCX
+Bintoro,39910649.0,L,False,F,Kemanggisan Jakarta Barat,Yamaha X-Max
+toro,5996625.0,L,False,F,Pluit Sakti 1,Yamaha Aerox
+edi,39463256.0,P,True,N,Kebon Jeruk Jakarta Barat,Honda Win
+Adira,19942315.0,L,True,F,Green Lake City Tanggerang,Toyota Fortuner
+Bonono,18404022.0,P,True,N,Casa Gardin Daanmogot,Honda brio
+ZBono,35780039.0,L,True,N,Cluster Edison Summarecon Serpong,Mitsubishi Pajero
+Tonono,25752958.0,P,False,F,Green Lake City Tanggerang,Mitsubishi Outlander
+Puji,15912745.0,L,True,F,Jalan Kenanga koba Bangka Tengah,Suzuki X-Cross
+Agus,27312243.0,P,True,N,Jalan Kenanga koba Bangka Tengah,Honda CBR
